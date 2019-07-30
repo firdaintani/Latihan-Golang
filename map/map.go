@@ -27,14 +27,28 @@ func main(){
 	fmt.Println(day["tonight"])
 
 	days, exist := day["friday"]
-	days1, exist1 := day["friday"]
+	days1, exist1 := day["today"]
 	fmt.Println(days, exist)
+	fmt.Println(days1, exist1)
 
+	delete(day, "yesterday")
+	fmt.Println(day)
+	delete(day, "friday")
+	fmt.Println(day)
 
+	for key, value := range day {
+		fmt.Println (key, " ", value)
+	}
 
-
+	data := map[string]int{}
+	data["one"]=1
+	fmt.Println(data["one"])
 	// m1 := make(map[string]int, 20)
 	// fmt.Println("map:", m1)
 	// fmt.Println("map1 length:",len(m1))
-	
+	keyMap := []string{}
+	for _, value := range day {
+		keyMap = append(keyMap, value)
+	}
+	fmt.Println(keyMap)
 }
