@@ -17,9 +17,11 @@ https://dasarpemrogramangolang.novalagung.com/11-operator.html
 -if else
 
 link : https://www.youtube.com/watch?v=ZtBJR4XSTSg
+https://dasarpemrogramangolang.novalagung.com/12-seleksi-kondisi.html
 
 == switch case
-
+https://gobyexample.com/switch
+https://dasarpemrogramangolang.novalagung.com/12-seleksi-kondisi.html
 
 ===
 LOOP
