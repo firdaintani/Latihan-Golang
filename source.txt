@@ -1,0 +1,48 @@
+========================
+1. Variable
+
+c. how to find the type of variable : http://www.golangprograms.com/how-to-find-the-type-of-variable-by-different-ways-in-golang.html
+https://degananda.com/golang-tutorial-indonesia-variable/
+https://degananda.com/golang-tutorial-indonesia-tipe-data-integer-float/
+https://degananda.com/golang-tutorial-indonesia-tipe-data-string-dan-boolean/
+
+
+===============
+2. Operator
+
+
+https://kursuswebprogramming.com/pengenalan-operator-dalam-bahasa-golang/
+https://dasarpemrogramangolang.novalagung.com/11-operator.html
+=======
+-if else
+
+link : https://www.youtube.com/watch?v=ZtBJR4XSTSg
+
+== switch case
+
+
+===
+LOOP
+https://yourbasic.org/golang/for-loop/
+https://medium.com/golangspec/labels-in-go-4ffd81932339
+https://golangbot.com/loops/
+
+
+
+====
+array :
+https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7
+https://dasarpemrogramangolang.novalagung.com/14-array.html
+https://golangbot.com/arrays-and-slices/
+
+
+=====
+slices 
+https://tour.golang.org/moretypes/11
+https://tour.golang.org/moretypes/13
+https://gobyexample.com/slices
+
+===
+map 
+https://gobyexample.com/maps
+https://medium.com/rungo/the-anatomy-of-maps-in-go-79b82836838b
