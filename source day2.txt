@@ -1,0 +1,11 @@
+variadic
+https://medium.com/rungo/variadic-function-in-go-5d9b23f4c01a
+https://blog.learngoprogramming.com/golang-variadic-funcs-how-to-patterns-369408f19085
+
+closure
+https://www.youtube.com/watch?v=MnUQoVk44n0
+https://www.calhoun.io/what-is-a-closure/
+https://golangr.com/closure/
+
+pointer
+https://medium.com/rungo/pointers-in-go-a789eafccd53

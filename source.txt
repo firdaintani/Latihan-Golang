@@ -13,9 +13,10 @@ https://degananda.com/golang-tutorial-indonesia-tipe-data-string-dan-boolean/
 
 https://kursuswebprogramming.com/pengenalan-operator-dalam-bahasa-golang/
 https://dasarpemrogramangolang.novalagung.com/11-operator.html
+
 =======
 -if else
-
+https://gobyexample.com/if-else
 link : https://www.youtube.com/watch?v=ZtBJR4XSTSg
 https://dasarpemrogramangolang.novalagung.com/12-seleksi-kondisi.html
 

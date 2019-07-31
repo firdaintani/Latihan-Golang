@@ -43,5 +43,13 @@ func main() {
 	copy(c, slices)
 	fmt.Println("copy:",c)
 	
+	dst := []string{"potato", "potato", "potato"}
+	src := []string{"watermelon", "pinnaple"}
+	n := copy(dst, src)
+
+	fmt.Println(dst) // watermelon pinnaple potato
+	fmt.Println(src) // watermelon pinnaple
+	fmt.Println(n) 
+
 	
 }
