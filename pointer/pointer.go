@@ -10,5 +10,8 @@ func main() {
 
 	fmt.Println("first :", first)
 	fmt.Println("second :", second)
+	*second = 2
+	fmt.Println("second :", *second)
+	fmt.Println("first :", first)
 
 }
