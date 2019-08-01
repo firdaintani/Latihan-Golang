@@ -24,17 +24,16 @@ func (e Employee) printData() {
 }
 
 func main() {
+	var firstName, lastName, address string
 	var birthYear int
 	fmt.Printf("Masukkan first Name: ")
-	var firstName string
 	fmt.Scanf("%s\n", &firstName)
 	fmt.Printf("Masukkan last Name:")
-	var lastName string
 	fmt.Scanf("%s\n", &lastName)
 	fmt.Printf("Masukkan tahun lahir:")
 	fmt.Scanf("%d\n", &birthYear)
 	fmt.Printf("Masukkan alamat:")
-	var address string
+
 	fmt.Scanf("%s\n", &address)
 
 	user := Employee{}
