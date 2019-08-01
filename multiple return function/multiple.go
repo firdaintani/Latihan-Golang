@@ -15,7 +15,6 @@ func splitKata(a string) (string, string) {
 	splittedString := strings.Split(a, " ")
 
 	return splittedString[0], splittedString[1]
-
 }
 
 func luasKeliling(a int) (luas int, keliling int) {

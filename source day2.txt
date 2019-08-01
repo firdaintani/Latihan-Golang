@@ -9,3 +9,18 @@ https://golangr.com/closure/
 
 pointer
 https://medium.com/rungo/pointers-in-go-a789eafccd53
+
+
+struct 
+https://www.callicoder.com/golang-structs/
+https://golangbot.com/structs/
+https://go101.org/article/struct.html
+method
+https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a
+https://gobyexample.com/methods
+https://dasarpemrogramangolang.novalagung.com/24-method.html
+https://golangbot.com/methods/
+
+interface
+https://www.youtube.com/watch?v=gfoVLXQ5ujM
+https://www.youtube.com/watch?v=EGRXKV6j-v0
