@@ -24,3 +24,7 @@ https://golangbot.com/methods/
 interface
 https://www.youtube.com/watch?v=gfoVLXQ5ujM
 https://www.youtube.com/watch?v=EGRXKV6j-v0
+https://tutorialedge.net/golang/go-interfaces-tutorial/
+https://tour.golang.org/methods/9
+https://blog.chewxy.com/2018/03/18/golang-interfaces/
+https://appdividend.com/2019/05/09/go-interface-tutorial-with-example-interface-implementation-in-go/

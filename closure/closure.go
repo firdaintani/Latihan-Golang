@@ -2,11 +2,6 @@ package main
 
 import "fmt"
 
-func Z() int {}
-func X(x int, fun func() int) {
-	fun()
-}
-
 func main() {
 	fmt.Println("closure")
 
@@ -27,7 +22,7 @@ func main() {
 	// fmt.Println(anotherFunc())
 }
 
-func returnFunrc() func() int {
+func returnFunc() func() int {
 	var i int
 	return func() int {
 		i++
